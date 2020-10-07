@@ -7,7 +7,7 @@
   "homepage": "https://github.com/hardyjoysan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hardyjoysan"
+    "url": "https://github.com/hardyjoysan/bootstrap-boilerplate"
   },
   "scripts": {
     "start": "gulp serve",
